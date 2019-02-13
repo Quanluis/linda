@@ -1,0 +1,22 @@
+{
+  "name": "linda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quanluis/linda.git"
+  },
+  "author": "Luis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quanluis/linda/issues"
+  },
+  "homepage": "https://github.com/Quanluis/linda#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
